@@ -45,6 +45,7 @@ curated list of top AI Tools.
 | Jamorphosia | AI-Powered Instrument remover and isolation | [🔗](https://www.jamorphosia.com/) |
 | Content Studio AI | AI-Powered Faceless Video Creation | [🔗](https://contentstudioai.com) |
 | Podcast Clip Maker | Automatically generate podcast clips from long-form video and audio | [🔗](https://recast.studio/tools/podcast-clip-maker) |
+| AI Face Swap | AI Powered Face Swap Tool Online, It's free, with no login and watermark-free results. | [🔗](https://aifaceswap.io/) |
 
 ## Conversational AI
 | Tools | Used for | Link |
