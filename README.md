@@ -145,6 +145,7 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
+| Saveto AI  | All-in-One AI Transcription & Translation Platform For Free | [🔗](https://saveto.ai/)|
 | getPaperFast.com  | An AI-driven platform for quick paper summaries that supports multiple languages | [🔗](https://getPaperFast.com)|
 | SlidesAI.io  | An AI Powered Text to Presentation Tool, Works with Google Slides | [🔗](https://slidesai.io)|
 | Flair  | AI design tool for branded content | [🔗](https://withflair.ai/)|
